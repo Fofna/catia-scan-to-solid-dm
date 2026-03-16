@@ -99,7 +99,7 @@ Le fichier doit être nommé selon la convention suivante :
 
 Exemple :
 
-`jean_dupont.CATpart`
+`nikola_tesla.CATpart`
 
 ⚠️ Tout autre format de fichier ne sera pas accepté.
 
