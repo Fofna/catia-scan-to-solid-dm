@@ -4,7 +4,7 @@
 
 ## Contexte
 
-Ce devoir a pour objectif d’évaluer votre capacité à **reconstruire un modèle solide à partir de données de scan 3D** en utilisant **CATIA**.
+Ce DM a pour objectif d’évaluer votre capacité à **reconstruire un modèle solide à partir de données de scan 3D** en utilisant **CATIA**.
 
 Vous disposerez de deux nuages de points fournis au format ASCII :
 
@@ -85,17 +85,41 @@ La création du solide final doit être réalisée dans :
 
 # Livrables attendus
 
-Vous devrez rendre :
+Vous devez rendre **un seul fichier CATIA** contenant :
 
-- le **projet CATIA complet**
 - le **modèle surfacique reconstruit**
-- le **modèle solide final**
+- les **intersections entre les surfaces**
+- le **solide final**
 
-Le modèle doit être :
+Le projet doit être **exporté au format `.CATpart`**.
 
-- géométriquement cohérent  
-- correctement limité (trim)  
-- sans points parasites inutiles
+Le fichier doit être nommé selon la convention suivante :
+
+`prenom_nom.CATpart`
+
+Exemple :
+
+`jean_dupont.CATpart`
+
+⚠️ Tout autre format de fichier ne sera pas accepté.
+
+---
+
+# Modalités de soumission
+
+Une fois votre reconstruction terminée :
+
+1. **Vérifiez que le **solide final est correctement reconstruit**
+2. Exportez votre projet CATIA au format **`.CATpart`
+3. Envoyez le fichier par email à :
+
+📧 **ladji.fofana@lne.fr**
+
+---
+
+# Date limite
+
+📅 **Deadline : April 16, 2026**
 
 ---
 
